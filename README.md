@@ -8,3 +8,5 @@ Test Repo for GitKraken with a git submodule manually added
 	url = git@github.com:PascalMinder/git-submodule-submodule.git
 ```
 
+## Old Branch
+This branch does not contain the submodule.
